@@ -124,6 +124,6 @@ AWS Systems Manager Session Manager
 Amazon S3 for Static and Media Files
 
 Author:
-Padmavathi Mani
+Padmavathi M
 
 AWS | DevOps | Linux | Python | Django | PostgreSQL
